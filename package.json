@@ -1,0 +1,43 @@
+{
+  "name": "gelgel",
+  "displayName": "GelGel",
+  "description": "Color theme filled with darkness, sprinkles, and happiness. Orange is begrudingly included sparsely.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "icon": "assets/logo.png",
+  "author": {
+    "name": "Lance Wilhelm",
+    "email": "lance.wilhelm@gmail.com",
+    "url": "https://lancewilhelm.com"
+  },
+  "repository": {
+    "url": "https://github.com/lancewilhelm/horizon-extended",
+    "type": "git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "happy",
+    "colorful",
+    "pastel",
+    "lilac",
+    "yellow",
+    "teal",
+    "mint",
+    "gelgel"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GelGel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gelgel.json"
+      }
+    ]
+  }
+}
