@@ -2,7 +2,7 @@
   "name": "gelgel",
   "displayName": "GelGel Theme",
   "description": "Color theme filled with darkness, sprinkles, and happiness. Orange is begrudingly included sparsely.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "lancewilhelm",
   "engines": {
     "vscode": "^1.97.0"
@@ -14,7 +14,7 @@
     "url": "https://lancewilhelm.com"
   },
   "repository": {
-    "url": "https://github.com/lancewilhelm/horizon-extended",
+    "url": "https://github.com/lancewilhelm/gelgel",
     "type": "git"
   },
   "categories": [
