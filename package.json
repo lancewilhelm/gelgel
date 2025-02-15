@@ -1,8 +1,9 @@
 {
   "name": "gelgel",
-  "displayName": "GelGel",
+  "displayName": "GelGel Theme",
   "description": "Color theme filled with darkness, sprinkles, and happiness. Orange is begrudingly included sparsely.",
   "version": "0.0.1",
+  "publisher": "lancewilhelm",
   "engines": {
     "vscode": "^1.97.0"
   },
